@@ -1,0 +1,1625 @@
+[
+
+    {
+        "id_goods":1,
+        "name":"Хомут ремонтный 1/2 (Ø15)",
+        "description":"оцинкованный на 2 болта",
+        "price":35,
+        "id_cat":"clamp",
+        "img": "../../images/15.png"
+    },
+    
+    {
+        "id_goods":2,
+        "name":"Хомут ремонтный 3/4 (Ø20)",
+        "description":"оцинкованный на 2 болта",
+        "price":35,
+        "id_cat":"clamp",
+        "img": "../../images/20.png"
+    },
+
+    {
+        "id_goods":3,
+        "name":"Хомут ремонтный 1 дюйм (Ø25)",
+        "description":"оцинкованный на 2 болта",
+        "price":35,
+        "id_cat":"clamp",
+        "img": "../../images/25.png"
+    },
+    
+    {
+        "id_goods":4,
+        "name":"Хомут ремонтный 1 дюйм 1/4 (Ø32)",
+        "description":"оцинкованный на 2 болта",
+        "price":35,
+        "id_cat":"clamp",
+        "img": "../../images/32.png"
+    },
+
+    {
+        "id_goods":5,
+        "name":"Хомут ремонтный 1 дюйм 1/2 (Ø40)",
+        "description":"оцинкованный на 2 болта",
+        "price":45,
+        "id_cat":"clamp",
+        "img": "../../images/40.png"
+    },
+    
+    {
+        "id_goods":6,
+        "name":"Хомут ремонтный 2 дюйма (Ø50)",
+        "description":"оцинкованный на 2 болта",
+        "price":45,
+        "id_cat":"clamp",
+        "img": "../../images/50.png"
+    },
+
+    {
+        "id_goods":7,
+        "name":"Хомут ремонтный 1/2 (Ø15)",
+        "description":"оцинкованный на 3 болта",
+        "price": 50,
+        "id_cat":"clamp",
+        "img": "../../images/20_homut.png"
+    },
+    
+    {
+        "id_goods":8,
+        "name":"Хомут ремонтный 3/4 (Ø20)",
+        "description":"оцинкованный на 3 болта",
+        "price": 50,
+        "id_cat":"clamp",
+        "img": "../../images/20_homut.png"
+    },
+
+    
+    {
+        "id_goods":9,
+        "name":"Хомут ремонтный 1 дюйм (Ø25)",
+        "description":"оцинкованный на 3 болта",
+        "price": 50,
+        "id_cat":"clamp",
+        "img": "../../images/20_homut.png"
+    },
+    
+    {
+        "id_goods":10,
+        "name":"Хомут ремонтный 1 дюйм 1/4 (Ø32)",
+        "description":"оцинкованный на 3 болта",
+        "price": 60,
+        "id_cat":"clamp",
+        "img": "../../images/32_homut.png"
+    },
+
+    {
+        "id_goods":11,
+        "name":"Хомут ремонтный 1 дюйм 1/2 (Ø40)",
+        "description":"оцинкованный на 3 болта",
+        "price": 60,
+        "id_cat":"clamp",
+        "img": "../../images/32_homut.png"
+    },
+    
+    {
+        "id_goods":12,
+        "name":"Хомут ремонтный 2 дюйма (Ø50)",
+        "description":"оцинкованный на 3 болта",
+        "price": 60,
+        "id_cat":"clamp",
+        "img": "../../images/32_homut.png"
+    },
+
+    {
+        "id_goods":13,
+        "name":"Хомут ремонтный Ø63",
+        "description":"оцинкованный на 3 болта",
+        "price": 60,
+        "id_cat":"clamp",
+        "img": "../../images/32_homut.png"
+    },
+
+    {
+        "id_goods":14,
+        "name":"Хомут ремонтный Ø76",
+        "description":"оцинкованный на 3 болта",
+        "price": 110,
+        "id_cat":"clamp",
+        "img": "../../images/110_homut.png"
+    },
+
+    {
+        "id_goods":15,
+        "name":"Хомут ремонтный Ø89",
+        "description":"оцинкованный на 3 болта",
+        "price": 120,
+        "id_cat":"clamp",
+        "img": "../../images/110_homut.png"
+    },
+
+    {
+        "id_goods":16,
+        "name":"Хомут ремонтный Ø110",
+        "description":"оцинкованный на 3 болта",
+        "price": 130,
+        "id_cat":"clamp",
+        "img": "../../images/110_homut.png"
+    },
+
+    {
+        "id_goods":17,
+        "name":"Хомут ремонтный Ø160",
+        "description":"оцинкованный на 3 болта",
+        "price": "договорная",
+        "id_cat":"clamp",
+        "img": "../../images/noimage.jpg"
+    },
+
+    {
+        "id_goods":21,
+        "name":"Ролик кнопка (одно колесо)",
+        "description": "Одинарные, Серый, 23 мм, 25 мм",
+        "price":80,
+        "id_cat": "rolici",
+        "img": "../../images/rolic1.jpg"
+    },
+    
+    {
+        "id_goods":22,
+        "name":"Ролик без кнопки (одно колесо)",
+        "description":"",
+        "price":80,
+        "id_cat": "rolici",
+        "img": "../../images/rolic6.jpg"
+    },
+
+    {
+        "id_goods":23,
+        "name":"Ролик кнопка (два колеса)",
+        "description": "Серый, 23 мм, 25 мм",
+        "price": 110,
+        "id_cat": "rolici",
+        "img": "../../images/rolic2col-knopka.jpg"
+    },
+    
+    {
+        "id_goods":24,
+        "name":"Ролик без кнопки (два колеса)",
+        "description": "Серый, 23 мм, 25 мм",
+        "price": 110,
+        "id_cat": "rolici",
+        "img": "../../images/rolic2-bez-knopka.jpg"
+    },
+
+    {
+        "id_goods":25,
+        "name":"Ролик СУ 2",
+        "description": "Серый, 19мм, 23мм, 25мм, 27мм",
+        "price": 110,
+        "id_cat": "rolici",
+        "img": "../../images/rolic-CU3.jpg"
+    },
+
+    {
+        "id_goods":26,
+        "name":"Ролик СУ 3",
+        "description": "Белый, 19мм, 23мм, 25мм, 27мм",
+        "price": 110,
+        "id_cat": "rolici",
+        "img": "../../images/rolic-CU3.jpg"
+    },
+
+    {
+        "id_goods":27,
+        "name":"Ролик DC 1011",
+        "description": "Серый, 23мм, 25мм",
+        "price": 110,
+        "id_cat": "rolici",
+        "img": "../../images/rolic5.jpg"
+    },
+
+    {
+        "id_goods":28,
+        "name":"Ролик латунь",
+        "description": "Латунь, 23мм",
+        "price": 140,
+        "id_cat": "rolici",
+        "img": "../../images/rolic-latun.png"
+    },
+
+    {
+        "id_goods":29,
+        "name":"Ролик овал кнопка",
+        "description": "Овальный, 23мм",
+        "price": 100,
+        "id_cat": "rolici",
+        "img": "../../images/rolic-oval-knopka.jpg"
+    },
+
+    {
+        "id_goods":30,
+        "name":"Ролик овал без кнопки",
+        "description": "Овальный, 23мм",
+        "price": 100,
+        "id_cat": "rolici",
+        "img": "../../images/rolic-oval2.jpeg"
+    },
+
+    
+    {
+        "id_goods":41,
+        "name":"Лента фум газ малая",
+        "description":"",
+        "price":15,
+        "id_cat":"fum",
+        "img": "../../images/fum_little.jpg"
+    },
+    
+    {
+        "id_goods":42,
+        "name":"Лента фум вода малая",
+        "description":"",
+        "price":15,
+        "id_cat":"fum",
+        "img": "../../images/fum_little.jpg"
+        
+    },
+
+    {
+        "id_goods":43,
+        "name":"Лента фум газ большая",
+        "description":"",
+        "price":25,
+        "id_cat":"fum",
+        "img": "../../images/fum-big.jpg"
+    },
+    
+    {
+        "id_goods":44,
+        "name":"Лента фум вода боьшая",
+        "description":"",
+        "price":25,
+        "id_cat":"fum",
+        "img": "../../images/fum-big.jpg"
+        
+    },
+
+    {
+        "id_goods":45,
+        "name":"Лента фум русская № 1 узкая",
+        "description": "ширина 10мм, вес 6г",
+        "price": 14,
+        "id_cat":"fum",
+        "img": "../../images/1_russia.png"
+        
+    },
+
+    {
+        "id_goods":46,
+        "name":"Лента фум русская № 2 широкая",
+        "description": "ширина 15мм, вес 10г",
+        "price": 15,
+        "id_cat":"fum",
+        "img": "../../images/2_russia.png"
+        
+    },
+
+    {
+        "id_goods":47,
+        "name":"Лента фум русская № 3 узкая",
+        "description": "ширина 15мм",
+        "price": 20,
+        "id_cat":"fum",
+        "img": "../../images/3_russia.png"
+        
+    },
+
+    {
+        "id_goods":48,
+        "name":"Лента фум русская № 4 широкая",
+        "description": "ширина 15мм",
+        "price": 25,
+        "id_cat":"fum",
+        "img": "../../images/4_russia.png"
+        
+    },
+
+    {
+        "id_goods":49,
+        "name":"Лента фум русская № 5 широкая",
+        "description": "ширина 15мм",
+        "price": 30,
+        "id_cat":"fum",
+        "img": "../../images/5_russia.png"
+    },
+
+    {
+        "id_goods":50,
+        "name":"Лента фум русская № 6 широкая",
+        "description": "ширина 15мм",
+        "price": 40,
+        "id_cat":"fum",
+        "img": "../../images/6_russia.png"
+        
+    },
+
+    {
+        "id_goods":51,
+        "name":"Лента фум русская № 7 широкая",
+        "description": "ширина 15мм",
+        "price": 50,
+        "id_cat":"fum",
+        "img": "../../images/7_russia.png"
+        
+    },
+
+    {
+        "id_goods":52,
+        "name":"Лента фум русская № 8 широкая",
+        "description": "ширина 15мм",
+        "price": 60,
+        "id_cat":"fum",
+        "img": "../../images/8_russia.png"
+        
+    },
+
+    {
+        "id_goods":53,
+        "name":"Лента фум русская № 9 широкая",
+        "description": "ширина 15мм",
+        "price": 70,
+        "id_cat":"fum",
+        "img": "../../images/9_russia.png"
+        
+    },
+
+    {
+        "id_goods":54,
+        "name":"Лента фум русская № 10 широкая",
+        "description": "ширина 15мм",
+        "price": 90,
+        "id_cat":"fum",
+        "img": "../../images/10_russia.png"
+        
+    },
+
+    {
+        "id_goods":55,
+        "name":"Лента фум русская № 11 широкая",
+        "description": "ширина 15мм",
+        "price": 300,
+        "id_cat":"fum",
+        "img": "../../images/11_russia.png"
+        
+    },
+
+    {
+        "id_goods":56,
+        "name":"Лента фум русская № 12 широкая",
+        "description": "ширина 15мм",
+        "price": 800,
+        "id_cat":"fum",
+        "img": "../../images/12_russia.png"
+        
+    },
+
+    {
+        "id_goods":57,
+        "name":"Сантехнить 20м",
+        "description":"Россия",
+        "price": 80,
+        "id_cat":"fum",
+        "img": "../../images/santehnit20.jpg"
+        
+    },
+
+    {
+        "id_goods":58,
+        "name":"Сантехнить 50м",
+        "description":"Россия",
+        "price": 130,
+        "id_cat":"fum",
+        "img": "../../images/santehnit50.jpg"
+        
+    },
+ 
+
+    {
+        "id_goods":100,
+        "name":"Паста Унипак + лен 25гр",
+        "description":"для герметизации резьбовых соединений",
+        "price":60,
+        "id_cat":"smazka",
+        "img": "../../images/unipak25.jpg"
+    },
+
+    {
+        "id_goods":101,
+        "name":"Паста Унипак 75гр",
+        "description":"для герметизации резьбовых соединений",
+        "price":90,
+        "id_cat":"smazka",
+        "img": "../../images/unipak75.jpg"
+    },
+
+    {
+        "id_goods":102,
+        "name":"Паста 250гр",
+        "description":"для герметизации резьбовых соединений",
+        "price":220,
+        "id_cat":"smazka",
+        "img": "../../images/unipak250.png"
+    },
+
+    {
+        "id_goods":103,
+        "name":"Смазка для канализации Sinicon",
+        "description":"",
+        "price":150,
+        "id_cat":"smazka",
+        "img": "../../images/sinicon.jpg"
+    },
+
+    {
+        "id_goods":201,
+        "name":"Крепление крышки унитаза C 13",
+        "description":"",
+        "price":60,
+        "id_cat":"unitaz_kreplenie",
+        "img": "../../images/c13.png"
+    }, 
+
+    {
+        "id_goods":202,
+        "name":"Крепление крышки унитаза C 15",
+        "description":"",
+        "price":60,
+        "id_cat":"unitaz_kreplenie",
+        "img": "../../images/c15.jpg"
+    },
+
+    {
+        "id_goods":203,
+        "name":"Крепление крышки унитаза C 19",
+        "description":"",
+        "price":60,
+        "id_cat":"unitaz_kreplenie",
+        "img": "../../images/c19.png"
+    }, 
+
+    {
+        "id_goods":204,
+        "name":"Крепление крышки унитаза C6Б",
+        "description":"",
+        "price":60,
+        "id_cat":"unitaz_kreplenie",
+        "img": "../../images/c6b.png"
+    }, 
+
+    {
+        "id_goods":205,
+        "name":"Крепление крышки унитаза K5",
+        "description":"",
+        "price":60,
+        "id_cat":"unitaz_kreplenie",
+        "img": "../../images/k5.png"
+    },
+
+    {
+        "id_goods":206,
+        "name":"Крепление крышки унитаза Универсальное",
+        "description":"",
+        "price":60,
+        "id_cat":"unitaz_kreplenie",
+        "img": "../../images/universal.png"
+    }, 
+
+    {
+        "id_goods":207,
+        "name":"Крепление крышки унитаза СУ 1",
+        "description":"",
+        "price":150,
+        "id_cat":"unitaz_kreplenie",
+        "img": "../../images/cu1.jpg"
+    },
+
+    {
+        "id_goods":208,
+        "name":"Крепление крышки унитаза СУ 3",
+        "description":"",
+        "price":150,
+        "id_cat":"unitaz_kreplenie",
+        "img": "../../images/cu3.jpg"
+    }, 
+
+    {
+        "id_goods":209,
+        "name":"Крепление крышки унитаза квадрат с планкой",
+        "description":"",
+        "price":60,
+        "id_cat":"unitaz_kreplenie",
+        "img": "../../images/kvadrat_planka.png"
+    },
+
+    {
+        "id_goods":210,
+        "name":"Крепление крышки унитаза квадрат с металич болтом",
+        "description":"",
+        "price": 70,
+        "id_cat":"unitaz_kreplenie",
+        "img": "../../images/metall_bolt.png"
+    }, 
+
+    {
+        "id_goods":211,
+        "name":"Крепление крышки унитаза EСO 2000",
+        "description":"",
+        "price": 150,
+        "id_cat":"unitaz_kreplenie",
+        "img": "../../images/eco-2000.jpg"
+    },
+
+    {
+        "id_goods":212,
+        "name":"Крепление крышки унитаза Президент",
+        "description":"",
+        "price": 150,
+        "id_cat":"unitaz_kreplenie",
+        "img": "../../images/president.png"
+    },
+
+    {
+        "id_goods":213,
+        "name":"Крепление крышки унитаза Cola",
+        "description":"",
+        "price": 250,
+        "id_cat":"unitaz_kreplenie",
+        "img": "../../images/cola-250.png"
+    },
+
+    {
+        "id_goods":214,
+        "name":"Крепление крышки унитаза угловое",
+        "description":"",
+        "price": 70,
+        "id_cat":"unitaz_kreplenie",
+        "img": "../../images/noimage.jpg"
+    },
+
+    {
+        "id_goods":215,
+        "name":"Крепление крышки унитаза с1 евро",
+        "description":"",
+        "price": 60,
+        "id_cat":"unitaz_kreplenie",
+        "img": "../../images/noimage.jpg"
+    },
+
+    {
+        "id_goods":300,
+        "name":"Манжета переходная 50/20",
+        "description":"",
+        "price": 9,
+        "id_cat":"rezina",
+        "img": "../../images/50x20.jpg"
+    },
+
+    {
+        "id_goods":301,
+        "name":"Манжета переходная 50/25",
+        "description":"",
+        "price": 8,
+        "id_cat":"rezina",
+        "img": "../../images/50x25.jpg"
+    },
+
+    {
+        "id_goods":302,
+        "name":"Манжета переходная 50/32",
+        "description":"",
+        "price": 8,
+        "id_cat":"rezina",
+        "img": "../../images/50x32.jpg"
+    },
+
+    {
+        "id_goods":303,
+        "name":"Манжета переходная 50/40",
+        "description":"",
+        "price": 8,
+        "id_cat":"rezina",
+        "img": "../../images/50x40.jpg"
+    },
+
+    {
+        "id_goods":304,
+        "name":"Манжета переходная 72/50",
+        "description":"",
+        "price": 20,
+        "id_cat":"rezina",
+        "img": "../../images/72x50.jpg"
+    },
+
+    {
+        "id_goods":305,
+        "name":"Манжета переходная 124/110",
+        "description":"",
+        "price": 25,
+        "id_cat":"rezina",
+        "img": "../../images/124x110.jpg"
+    },
+
+
+    {
+        "id_goods":306,
+        "name":"Манжета переходная 40/20",
+        "description":"",
+        "price": 9,
+        "id_cat":"rezina",
+        "img": "../../images/40x25.jpg"
+    },
+
+    {
+        "id_goods":307,
+        "name":"Манжета переходная 40/25",
+        "description":"",
+        "price": 9,
+        "id_cat":"rezina",
+        "img": "../../images/40x25.jpg"
+    },
+
+    {
+        "id_goods":308,
+        "name":"Манжета переходная 40/32",
+        "description":"",
+        "price": 9,
+        "id_cat":"rezina",
+        "img": "../../images/40x25.jpg"
+    },
+    
+    {
+        "id_goods":309,
+        "name":"Манжета переходная 32/20",
+        "description":"",
+        "price": 9,
+        "id_cat":"rezina",
+        "img": "../../images/32x25.jpg"
+    },
+
+    {
+        "id_goods":310,
+        "name":"Манжета переходная 32/25",
+        "description":"",
+        "price": 9,
+        "id_cat":"rezina",
+        "img": "../../images/32x25.jpg"
+    },
+    
+    {
+        "id_goods":311,
+        "name":"Конус на унитаз",
+        "description":"",
+        "price": 25,
+        "id_cat":"rezina",
+        "img": "../../images/konus.jpg"
+    },
+
+    {
+        "id_goods":312,
+        "name":"Рюмка на унитаз",
+        "description":"",
+        "price": 25,
+        "id_cat":"rezina",
+        "img": "../../images/ryumka.jpg"
+    },
+    
+    {
+        "id_goods":313,
+        "name":"Переход резиновый 63/50",
+        "description":"",
+        "price": 25,
+        "id_cat":"rezina",
+        "img": "../../images/63x50.png"
+    },
+
+    {
+        "id_goods":314,
+        "name":"Переход резиновый 50/40",
+        "description":"",
+        "price": 25,
+        "id_cat":"rezina",
+        "img": "../../images/63x50.png"
+    },
+    
+    {
+        "id_goods":315,
+        "name":"Переход резиновый 50/50",
+        "description":"",
+        "price": 25,
+        "id_cat":"rezina",
+        "img": "../../images/50x50.png"
+    },
+
+    {
+        "id_goods":316,
+        "name":"Переход резиновый 40/40",
+        "description":"",
+        "price": 25,
+        "id_cat":"rezina",
+        "img": "../../images/50x50.png"
+    },
+
+    {
+        "id_goods":317,
+        "name":"Блин на унитаз",
+        "description":"",
+        "price": 15,
+        "id_cat":"rezina",
+        "img": "../../images/blin.jpg"
+    },
+
+    {
+        "id_goods":318,
+        "name":"Ø 110 на унитаз черная",
+        "description":"",
+        "price": 15,
+        "id_cat":"rezina",
+        "img": "../../images/unitaz-chernaia.png"
+    },
+
+    {
+        "id_goods":319,
+        "name":"Ø 110 на унитаз белая",
+        "description":"",
+        "price": 15,
+        "id_cat":"rezina",
+        "img": "../../images/unitaz-belaia.jpg"
+    },
+
+    {
+        "id_goods":320,
+        "name":"Вантуз",
+        "description":"",
+        "price": 60,
+        "id_cat":"rezina",
+        "img": "../../images/vantus.jpg"
+    },
+
+    {
+        "id_goods":321,
+        "name":"Кольцо Ø 50",
+        "description":"",
+        "price": 3,
+        "id_cat":"rezina",
+        "img": "../../images/kolco50.jpg"
+    },
+
+    {
+        "id_goods":322,
+        "name":"Кольцо Ø 110",
+        "description":"",
+        "price": 4,
+        "id_cat":"rezina",
+        "img": "../../images/kolco110.jpg"
+    },
+
+    {
+        "id_goods":323,
+        "name":"Кольцо Ø 40",
+        "description":"",
+        "price": 3,
+        "id_cat":"rezina",
+        "img": "../../images/kolco40.jpg"
+    },
+
+    {
+        "id_goods":324,
+        "name":"Клапан на унитаз Псков белый",
+        "description":"",
+        "price": 25,
+        "id_cat":"rezina",
+        "img": "../../images/pskov_belyj.jpg"
+    },
+
+    {
+        "id_goods":325,
+        "name":"Клапан на унитаз Псков силикон",
+        "description":"",
+        "price": 25,
+        "id_cat":"rezina",
+        "img": "../../images/pskov_silicon.jpg"
+    },
+
+    {
+        "id_goods":326,
+        "name":"Клапан на унитаз Псков двойной старый",
+        "description":"",
+        "price": 30,
+        "id_cat":"rezina",
+        "img": "../../images/pskov2_new.png"
+    },
+
+    {
+        "id_goods":327,
+        "name":"Клапан на унитаз Псков двойной новый ",
+        "description":"",
+        "price": 30,
+        "id_cat":"rezina",
+        "img": "../../images/pskov2_new.png"
+    },
+
+    {
+        "id_goods":328,
+        "name":"Клапан на унитаз с кнопкой черный",
+        "description":"",
+        "price": 20,
+        "id_cat":"rezina",
+        "img": "../../images/noimage.jpg"
+    },
+
+    {
+        "id_goods":329,
+        "name":"Клапан на унитаз белый Москва",
+        "description":"",
+        "price": 25,
+        "id_cat":"rezina",
+        "img": "../../images/moscow_white.jpg"
+    },
+
+    {
+        "id_goods":330,
+        "name":"Клапан на унитаз черный Москва",
+        "description":"",
+        "price": 25,
+        "id_cat":"rezina",
+        "img": "../../images/pskov2_new.png"
+    },
+
+    {
+        "id_goods":331,
+        "name":"Клапан на унитаз Алкапласт (ALCAPLAST) чех",
+        "description":"",
+        "price": 60,
+        "id_cat":"rezina",
+        "img": "../../images/noimage.jpg"
+    },
+
+    {
+        "id_goods":332,
+        "name":"Клапан на унитаз АНИ Пласт",
+        "description":"",
+        "price": 30,
+        "id_cat":"rezina",
+        "img": "../../images/aniplast.png"
+    },
+
+    {
+        "id_goods":333,
+        "name":"Клапан на унитаз Идис (IDDIS)",
+        "description":"",
+        "price": 20,
+        "id_cat":"rezina",
+        "img": "../../images/IDDIS.png"
+    },
+
+    {
+        "id_goods":334,
+        "name":"Клапан на унитаз Груша с резьбой",
+        "description":"",
+        "price": 20,
+        "id_cat":"rezina",
+        "img": "../../images/grusha_rezba.jpg"
+    },
+
+    {
+        "id_goods":335,
+        "name":"Клапан на унитаз Груша 20мм",
+        "description":"",
+        "price": 20,
+        "id_cat":"rezina",
+        "img": "../../images/grusha-20mm.jpg"
+    },
+
+    {
+        "id_goods":336,
+        "name":"Клапан на унитаз Груша 25мм",
+        "description":"",
+        "price": 20,
+        "id_cat":"rezina",
+        "img": "../../images/grusha-20mm.jpg"
+    },
+
+    {
+        "id_goods":337,
+        "name":"Набор прокладок",
+        "description":"",
+        "price": 600,
+        "id_cat":"rezina",
+        "img": "../../images/nabor_prokladok.jpg"
+    },
+
+       
+    {
+        "id_goods":400,
+        "name":"Прокладки паронит  1/4",
+        "description":"в связке 100 штук",
+        "price": 1.5,
+        "id_cat":"procladki_paronit",
+        "img": "../../images/1.4.jpg"
+    },
+    
+    {
+        "id_goods":401,
+        "name":"Прокладки паронит  3/8",
+        "description":"в связке 100 штук",
+        "price": 1.5,
+        "id_cat":"procladki_paronit",
+        "img": "../../images/3.8.jpg"
+    },
+ 
+    {
+        "id_goods":402,
+        "name":"Прокладки паронит  1/2",
+        "description":"в связке 100 штук",
+        "price":1,
+        "id_cat":"procladki_paronit",
+        "img": "../../images/15.jpg"
+    },
+    
+    {
+        "id_goods":403,
+        "name":"Прокладки паронит  3/4",
+        "description":"в связке 100 штук",
+        "price":1,
+        "id_cat":"procladki_paronit",
+        "img": "../../images/20.jpg"
+    },
+ 
+    {
+        "id_goods":404,
+        "name":"Прокладки паронит 1 дюйм",
+        "description":"в связке 100 штук",
+        "price": 1.5,
+        "id_cat":"procladki_paronit",
+        "img": "../../images/25.jpg"
+    },
+    
+    {
+        "id_goods":405,
+        "name":"Прокладки паронит 1 дюйм 1/2",
+        "description":"в связке 100 штук",
+        "price": 3,
+        "id_cat":"procladki_paronit",
+        "img": "../../images/40.jpg"
+    },
+    
+    {
+        "id_goods":406,
+        "name":"Прокладки паронит 1 дюйм 1/4",
+        "description": "(на алюминевый радиатор) серые",
+        "price": 3,
+        "id_cat":"procladki_paronit",
+        "img": "../../images/32.jpg"
+    },
+    
+    {
+        "id_goods":407,
+        "name":"Прокладки паронит 1 дюйм 1/4",
+        "description": "(на алюминевый радиатор) зеленые",
+        "price": 3.5,
+        "id_cat":"procladki_paronit",
+        "img": "../../images/32_green.jpg"
+    },
+    
+    {
+        "id_goods":408,
+        "name":"Прокладки паронит 1/2 зеленые",
+        "description":"в связке 100 штук",
+        "price": 2,
+        "id_cat":"procladki_paronit",
+        "img": "../../images/15_green.jpg"
+    },
+    
+    {
+        "id_goods":409,
+        "name":"Прокладки паронит 3/4 зеленые",
+        "description": "в связке 100 штук",
+        "price": 2.5,
+        "id_cat":"procladki_paronit",
+        "img": "../../images/20_green.jpg"
+    },
+    
+    {
+        "id_goods":410,
+        "name":"Прокладки паронит 1 дюйм зеленые",
+        "description": "в связке 100 штук",
+        "price": 2.5,
+        "id_cat":"procladki_paronit",
+        "img": "../../images/25_green.jpg"
+    },
+    
+    {
+        "id_goods":411,
+        "name":"Прокладки паронит 1/2 красные",
+        "description":"в связке 100 штук",
+        "price": 2,
+        "id_cat":"procladki_paronit",
+        "img": "../../images/15_red.jpg"
+    },
+    
+    {
+        "id_goods":412,
+        "name":"Прокладки паронит 1/2 черные",
+        "description":"в связке 100 штук",
+        "price": 2,
+        "id_cat":"procladki_paronit",
+        "img": "../../images/15_black.png"
+    },
+
+    {
+        "id_goods":413,
+        "name":"Прокладки паронит 1 1/4 белые",
+        "description":"в связке 100 штук",
+        "price": 2,
+        "id_cat":"procladki_paronit",
+        "img": "../../images/32_white.png"
+    },
+
+    {
+        "id_goods":500,
+        "name":"Прокладки резиновые 1/4",
+        "description":"в связке 100 штук",
+        "price": 1.5,
+        "id_cat":"procladki_paronit",
+        "img": "../../images/15_green.jpg"
+    },
+    
+    {
+        "id_goods":501,
+        "name":"Прокладки резиновые 3/8",
+        "description": "в связке 100 штук",
+        "price": 1.5,
+        "id_cat":"procladki_rezina",
+        "img": "../../images/3.8_rez.jpg"
+    },
+    
+    {
+        "id_goods":502,
+        "name":"Прокладки резиновые 1/2",
+        "description": "в связке 100 штук",
+        "price": 1,
+        "id_cat":"procladki_rezina",
+        "img": "../../images/15_rez.jpg"
+    },
+    
+    {
+        "id_goods":503,
+        "name":"Прокладки резиновые 3/4",
+        "description":"в связке 100 штук",
+        "price": 1,
+        "id_cat":"procladki_rezina",
+        "img": "../../images/20_rez.jpg"
+    },
+    
+    {
+        "id_goods":504,
+        "name":"Прокладки резиновые 1 дюйм",
+        "description": "в связке 100 штук",
+        "price": 2,
+        "id_cat":"procladki_rezina",
+        "img": "../../images/25_rez.jpg"
+    },
+    
+    {
+        "id_goods":505,
+        "name":"Прокладки резиновые 1 дюйм 1/4",
+        "description": "в связке 100 штук",
+        "price": 3,
+        "id_cat":"procladki_rezina",
+        "img": "../../images/32_rez.jpg"
+    },
+    
+    {
+        "id_goods":506,
+        "name":"Прокладки на газ счетчик",
+        "description":"в связке 100 штук",
+        "price": 3,
+        "id_cat":"procladki_rezina",
+        "img": "../../images/gaz.png"
+    },
+    
+    {
+        "id_goods":507,
+        "name":"Набор прокладок",
+        "description":"",
+        "price": 600,
+        "id_cat":"procladki_rezina",
+        "img": "../../images/nabor_prokladok.jpg"
+    },
+    
+    {
+        "id_goods":508,
+        "name":"Кольцо на трубу ПНД Ø 20",
+        "description":"в связке 100 штук",
+        "price": 8,
+        "id_cat":"procladki_rezina",
+        "img": "../../images/pnd_20.jpg"
+    },
+    
+    {
+        "id_goods":509,
+        "name":"Кольцо на трубу ПНД Ø 25",
+        "description": "в связке 100 штук",
+        "price": 9,
+        "id_cat":"procladki_rezina",
+        "img": "../../images/pnd_25.jpg"
+    },
+    
+    {
+        "id_goods":510,
+        "name":"Кольцо на трубу ПНД Ø 32",
+        "description": "в связке 100 штук",
+        "price": 10,
+        "id_cat":"procladki_rezina",
+        "img": "../../images/pnd_32.jpg"
+    },
+    
+    {
+        "id_goods":511,
+        "name":"Кольцо на трубу ПНД Ø 40",
+        "description":"в связке 100 штук",
+        "price": 18,
+        "id_cat":"procladki_rezina",
+        "img": "../../images/pnd_40.jpg"
+    },
+    
+    {
+        "id_goods":512,
+        "name":"Кольцо на трубу ПНД Ø 50",
+        "description":"в связке 100 штук",
+        "price": 20,
+        "id_cat":"procladki_rezina",
+        "img": "../../images/pnd_50.jpg"
+    },
+    
+    {
+        "id_goods":600,
+        "name":"Прокладки силикон 1/2",
+        "description": "в связке 100 штук",
+        "price": 1,
+        "id_cat":"procladki_silikon",
+        "img": "../../images/15_silicon.jpg"
+    },
+    
+    {
+        "id_goods":601,
+        "name":"Прокладки силикон 3/4",
+        "description": "в связке 100 штук",
+        "price": 1,
+        "id_cat":"procladki_silikon",
+        "img": "../../images/20_silicon.jpg"
+    },
+    
+    {
+        "id_goods":602,
+        "name":"Прокладки силикон 1 дюйм",
+        "description":"в связке 100 штук",
+        "price": 2,
+        "id_cat":"procladki_silikon",
+        "img": "../../images/25_silicon.jpeg"
+    },
+    
+    {
+        "id_goods":603,
+        "name":"Прокладки силикон 1 дюйм 1/4 на алюминевый радиатор",
+        "description":"в связке 100 штук",
+        "price": 3,
+        "id_cat":"procladki_silikon",
+        "img": "../../images/32_silicon.jpg"
+    },
+    
+    {
+        "id_goods":604,
+        "name":"Прокладки силикон 1 дюйм 1/2",
+        "description":"в связке 100 штук",
+        "price": 3,
+        "id_cat":"procladki_silikon",
+        "img": "../../images/all_silicon.jpg"
+    },
+    
+    {
+        "id_goods":605,
+        "name":"Кольцо 32 на алюминевый радиатор",
+        "description":"в связке 100 штук",
+        "price": 6,
+        "id_cat":"procladki_silikon",
+        "img": "../../images/noimage.jpg"
+    },
+    
+    {
+        "id_goods":606,
+        "name":"Прокладки фторопласт 1/2",
+        "description":"в связке 100 штук",
+        "price": 5,
+        "id_cat":"procladki_silikon",
+        "img": "../../images/ftoroplast.png"
+    },
+    
+    {
+        "id_goods":607,
+        "name":"Прокладки фторопласт 3/4",
+        "description":"в связке 100 штук",
+        "price": 5,
+        "id_cat":"procladki_silikon",
+        "img": "../../images/ftoroplast.png"
+    },
+    
+    {
+        "id_goods":608,
+        "name":"Прокладки фторопласт 1 дюйм",
+        "description":"в связке 100 штук",
+        "price": 8,
+        "id_cat":"procladki_silikon",
+        "img": "../../images/ftoroplast.png"
+    },
+    
+    {
+        "id_goods":700,
+        "name":"Кольцо на Американку Ø 15",
+        "description":"в связке 100 штук",
+        "price": 3,
+        "id_cat":"procladki_amerikanka",
+        "img": "../../images/15_amerikanka.jpg"
+    },
+    
+    {
+        "id_goods":701,
+        "name":"Кольцо на Американку Ø 20",
+        "description":"в связке 100 штук",
+        "price": 3,
+        "id_cat":"procladki_amerikanka",
+        "img": "../../images/20_amerikanka.jpg"
+    },
+    
+    {
+        "id_goods":702,
+        "name":"Кольцо на Американку Ø 25",
+        "description":"в связке 100 штук",
+        "price": 5,
+        "id_cat":"procladki_amerikanka",
+        "img": "../../images/25_amerikanka.jpg"
+    },
+    
+    {
+        "id_goods":703,
+        "name":"Кольцо на Американку Ø 32",
+        "description":"в связке 100 штук",
+        "price": 6,
+        "id_cat":"procladki_amerikanka",
+        "img": "../../images/32_amerikanka.jpg"
+    },
+    
+    {
+        "id_goods":704,
+        "name":"Кольцо на Американку Ø 40",
+        "description":"в связке 100 штук",
+        "price": 20,
+        "id_cat":"procladki_amerikanka",
+        "img": "../../images/40_amerikanka.jpg"
+    },
+    
+    {
+        "id_goods":705,
+        "name":"Кольцо на Американку Ø 50",
+        "description":"в связке 100 штук",
+        "price": 30,
+        "id_cat":"procladki_amerikanka",
+        "img": "../../images/50_amerikanka.jpg"
+    },
+    
+    {
+        "id_goods":706,
+        "name":"Кольцо на Американку KALDE Ø 20",
+        "description":"в связке 100 штук",
+        "price": 15,
+        "id_cat":"procladki_amerikanka",
+        "img": "../../images/20_amerikanka.jpg"
+    },
+    
+    {
+        "id_goods":707,
+        "name":"Кольцо на Американку KALDE Ø 25",
+        "description":"в связке 100 штук",
+        "price": 18,
+        "id_cat":"procladki_amerikanka",
+        "img": "../../images/25_amerikanka.jpg"
+    },
+    
+    {
+        "id_goods":708,
+        "name":"Кольцо на Американку KALDE Ø 32",
+        "description":"в связке 100 штук",
+        "price": 20,
+        "id_cat":"procladki_amerikanka",
+        "img": "../../images/32_amerikanka.jpg"
+    },
+    
+    {
+        "id_goods":709,
+        "name":"Кольцо на Американку Китай Ø 20",
+        "description":"в связке 100 штук",
+        "price": 15,
+        "id_cat":"procladki_amerikanka",
+        "img": "../../images/20_amerikanka.jpg"
+    },
+    
+    {
+        "id_goods":710,
+        "name":"Кольцо на Американку Китай Ø 25",
+        "description":"в связке 100 штук",
+        "price": 18,
+        "id_cat":"procladki_amerikanka",
+        "img": "../../images/25_amerikanka.jpg"
+    },
+    
+    {
+        "id_goods":711,
+        "name":"Кольцо на Американку Китай Ø 32",
+        "description":"в связке 100 штук",
+        "price": 20,
+        "id_cat":"procladki_amerikanka",
+        "img": "../../images/32_amerikanka.jpg"
+    },
+    
+    {
+        "id_goods":712,
+        "name":"Кольцо на Американку ПЛОСКАЯ Ø 20",
+        "description":"в связке 100 штук",
+        "price": 3,
+        "id_cat":"procladki_amerikanka",
+        "img": "../../images/20_amer_ploskaya.jpg"
+    },
+    
+    {
+        "id_goods":713,
+        "name":"Кольцо на Американку ПЛОСКАЯ Ø 25",
+        "description":"в связке 100 штук",
+        "price": 3,
+        "id_cat":"procladki_amerikanka",
+        "img": "../../images/25_amer_ploskaya.jpeg"
+    },
+    
+    {
+        "id_goods":714,
+        "name":"Кольцо на Американку ПЛОСКАЯ Ø 32",
+        "description":"в связке 100 штук",
+        "price": 3,
+        "id_cat":"procladki_amerikanka",
+        "img": "../../images/32_amer_ploskaya.jpg"
+    },
+    
+    {
+        "id_goods":715,
+        "name":"Кольцо на Американку ПЛОСКАЯ Ø 40",
+        "description":"в связке 100 штук",
+        "price": 3,
+        "id_cat":"procladki_amerikanka",
+        "img": "../../images/32_amer_ploskaya.jpg"
+    },
+    
+    {
+        "id_goods":716,
+        "name":"Кольцо на Американку ПЛОСКАЯ Ø 50",
+        "description":"в связке 100 штук",
+        "price": 20,
+        "id_cat":"procladki_amerikanka",
+        "img": "../../images/noimage.jpg"
+    },
+    
+    {
+        "id_goods":717,
+        "name":"Кольцо на Американку ПЛОСКАЯ Ø 63",
+        "description":"в связке 100 штук",
+        "price": 30,
+        "id_cat":"procladki_amerikanka",
+        "img": "../../images/noimage.jpg"
+    },
+    
+    {
+        "id_goods":800,
+        "name":"Кольцо на гусак Россиия",
+        "description":"в связке 100 штук",
+        "price": 1.5,
+        "id_cat":"procladki_smesitel",
+        "img": "../../images/gusak.png"
+    },
+    
+    {
+        "id_goods":801,
+        "name":"Кольцо на гусак импорт",
+        "description":"в связке 100 штук",
+        "price": 1.5,
+        "id_cat":"procladki_smesitel",
+        "img": "../../images/noimage.png"
+    },
+    
+    {
+        "id_goods":802,
+        "name":"Кольцо на гусак плоское",
+        "description":"в связке 100 штук",
+        "price": 1.5,
+        "id_cat":"procladki_smesitel",
+        "img": "../../images/noimage.jpg"
+    },
+    
+    {
+        "id_goods":803,
+        "name":"Ремкомплект на смеситель керамика Россия",
+        "description":"в связке 100 штук",
+        "price": 13.5,
+        "id_cat":"procladki_smesitel",
+        "img": "../../images/noimage.jpg"
+    },
+    
+    {
+        "id_goods":804,
+        "name":"Ремкомплект на смеситель керамика импорт",
+        "description":"в связке 100 штук",
+        "price": 14.5,
+        "id_cat":"procladki_smesitel",
+        "img": "../../images/remcomplect.png"
+    },
+    
+    {
+        "id_goods":805,
+        "name":"Ремкомплект на смеситель керамика импорт",
+        "description":"в связке 100 штук",
+        "price": 15.5,
+        "id_cat":"procladki_smesitel",
+        "img": "../../images/noimage.jpg"
+    },
+    
+    {
+        "id_goods":806,
+        "name":"Кольцо на подводку смесителя м10",
+        "description":"в связке 100 штук",
+        "price": 1.5,
+        "id_cat":"procladki_smesitel",
+        "img": "../../images/noimage.jpg"
+    },
+    
+    {
+        "id_goods":807,
+        "name":"Кольцо на метелопластиковый фитинг Ø 16",
+        "description":"в связке 100 штук",
+        "price": 1.5,
+        "id_cat":"procladki_smesitel",
+        "img": "../../images/noimage.jpg"
+    },
+    
+    {
+        "id_goods":808,
+        "name":"Кольцо на метелопластиковый фитинг Ø 16",
+        "description":"в связке 100 штук",
+        "price": 1.5,
+        "id_cat":"procladki_smesitel",
+        "img": "../../images/noimage.jpg"
+    },
+    
+    {
+        "id_goods":809,
+        "name":"Кольцо на метелопластиковый фитинг Ø 20",
+        "description":"в связке 100 штук",
+        "price": 1.5,
+        "id_cat":"procladki_smesitel",
+        "img": "../../images/noimage.jpg"
+    },
+    
+    {
+        "id_goods":810,
+        "name":"Кольцо на метелопластиковый фитинг Ø 25",
+        "description":"в связке 100 штук",
+        "price": 1.5,
+        "id_cat":"procladki_smesitel",
+        "img": "../../images/noimage.jpg"
+    },
+    
+    {
+        "id_goods":811,
+        "name":"Кольцо на метелопластиковый фитинг Ø 32",
+        "description":"в связке 100 штук",
+        "price": 4,
+        "id_cat":"procladki_smesitel",
+        "img": "../../images/noimage.jpg"
+    },
+    
+    {
+        "id_goods":900,
+        "name":"Прокладка на алюминиевый бидон резина 10 литров",
+        "description":"",
+        "price": 90,
+        "id_cat":"kolca_bidon",
+        "img": "../../images/10_bidon.webp"
+    },
+    
+    {
+        "id_goods":901,
+        "name":"Прокладка на алюминиевый бидон резина 25 литров",
+        "description":"",
+        "price": 90,
+        "id_cat":"kolca_bidon",
+        "img": "../../images/25_bidon_plockaya.jpg"
+    },
+    
+    {
+        "id_goods":902,
+        "name":"Прокладка на алюм бидон полукруглая 25 литров",
+        "description":"",
+        "price": 90,
+        "id_cat":"kolca_bidon",
+        "img": "../../images/noimage.jpg"
+    },
+    
+    {
+        "id_goods":903,
+        "name":"Прокладка на алюм бидон плоская 40 литров",
+        "description":"",
+        "price": 100,
+        "id_cat":"kolca_bidon",
+        "img": "../../images/noimage.jpg"
+    },
+    
+    {
+        "id_goods":904,
+        "name":"Прокладка на алюм бидон полукруглая 40 литров",
+        "description":"",
+        "price": 100,
+        "id_cat":"kolca_bidon",
+        "img": "../../images/40_bidon.webp"
+    },
+    
+    {
+        "id_goods":905,
+        "name":"Прокладка на алюм бидон полукруглая 20 литров",
+        "description":"",
+        "price": 100,
+        "id_cat":"kolca_bidon",
+        "img": "../../images/noimage.jpg"
+    },
+    
+    {
+        "id_goods":906,
+        "name":"Прокладка на автоклав",
+        "description":"",
+        "price": 120,
+        "id_cat":"kolca_bidon",
+        "img": "../../images/avtoklav.png"
+    },
+    
+    {
+        "id_goods":907,
+        "name":"Прокладка на алюм бидон силикон 25 литров",
+        "description":"",
+        "price": 240,
+        "id_cat":"kolca_bidon",
+        "img": "../../images/bidon_silikon.jpg"
+    },
+    
+    {
+        "id_goods":908,
+        "name":"Прокладка на алюм бидон силикон 40 литров",
+        "description":"",
+        "price": 250,
+        "id_cat":"kolca_bidon",
+        "img": "../../images/bidon_silikon.jpg"
+    },
+    
+    {
+        "id_goods":909,
+        "name":"Прокладка на стеклянную банку для самогона 80/60",
+        "description":"",
+        "price": 70,
+        "id_cat":"kolca_bidon",
+        "img": "../../images/noimage.jpg"
+    }
+    
+]
